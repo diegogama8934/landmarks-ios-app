@@ -1,10 +1,3 @@
-//
-//  LandmarksApp.swift
-//  Landmarks
-//
-//  Created by Diego Martínez García on 07/08/24.
-//
-
 import SwiftUI
 
 @main
